@@ -2,6 +2,10 @@
 
 This repository contains the Java source code for the implementations of GVE and STA used in https://dl.acm.org/doi/abs/10.1145/3281548.3281549
 
+## Prerequisites
+
+- This code works with the Java SE Development Kit 8u301
+
 ## Usage
 
 - Check configuration parameters are correct in `config.properties` file
